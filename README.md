@@ -270,6 +270,7 @@ macOS software and tools from the open-source community. This awesome list is au
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) — A tool for tagging files and archiving tasks. ☆`345`
 - [RobinNaumann/disko](https://github.com/RobinNaumann/disko) — a minimalist disk usage analyzer for macOS ☆`121`
 - [glimapp/glim](https://github.com/glimapp/glim) — macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace. ☆`31`
+- [RenomeeAI](https://renomeeai.com/) - AI-powered batch file renaming tool that analyzes PDF content, image metadata, OCR text, and audio tags to generate descriptive filenames automatically.
 ## Gaming
 
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) — PlayStation 3 emulator and debugger ☆`20,292`
