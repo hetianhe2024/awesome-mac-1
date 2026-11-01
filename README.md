@@ -257,6 +257,7 @@ macOS software and tools from the open-source community. This awesome list is au
 
 - [mucommander/mucommander](https://github.com/mucommander/mucommander) — Cross-platform dual-pane file manager ☆`1,293`
 - [raguay/ModalFileManager](https://github.com/raguay/ModalFileManager) — Vim-style modal file manager for macOS ☆`171`
+- [RenomeeAI](https://renomeeai.com/) - AI-powered batch file renaming tool that analyzes PDF content, image metadata, OCR text, and audio tags to automatically generate descriptive filenames.
 ### File Sharing
 
 - [localsend/localsend](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`96,839`
